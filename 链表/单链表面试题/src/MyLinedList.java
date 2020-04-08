@@ -234,4 +234,70 @@ class LinedList {
     }
 }
 
+//给定两个（单向）链表，判定它们是否相交并返回交点
+class IntersectList{
+    public Node getIntersectionNode(Node headA, Node headB) {
+        if(headA == null || headB == null) { //其中一个是空链表，则返回null
+            return null;
+        }
+        int lenA = 0;
+        int lenB = 0;
+        Node pL = headA;
+        Node pS = headB;
+        while(pL != null) {
+            lenA++;    //A的链表长度
+            pL = pL.next;
+        }
+        while(pS != null) {
+            lenB++;    //B的链表长度
+            pS = pS.next;
+        }
+        int len = lenA - lenB;  //len > 0：说明A是长链表，B是短链表
+        pL = headA;
+        pS = headB;
+        if(len < 0) {
+            pL = headB;   //pL指向长列表
+            pS = headA;   //pS指向短链表
+            len = lenB - lenA;    //len代表两个链表之间的差值
+        }
+        // 先让长链表走len步，再让两个链表同时走，直到pL == pS
+        // 此时pL与pS指在相交的结点上
+        while(len > 0){
+            pL = pL.next;
+            len--;
+        }
+        while(pL != pS ) {
+            pL = pL.next;
+            pS = pS.next;
+        }
+        if(pL != null && pL != null && pL == pS) {
+            return pL;
+        }
+        return null;
+    }
+}
+
+//给定一个链表，判断链表中是否有环
+class Cycle {
+    public boolean hasCycle(Node head) {
+        // 设置fast 和 slow 指向头结点
+        // 令fast一次走两步，slow一次走一步
+        // 若在fast与slow都不等于null的前提下可以相遇，则表示有环
+        Node fast = head;
+        Node slow = head;
+        while(fast != null && fast.next != null) {  //排除链表为空的可能
+            fast = fast.next.next;
+            slow = slow.next;
+            if(fast == slow) {
+                break;
+            }
+        }
+        if(fast == null || fast.next == null) {
+            return false;
+        }
+        return true;
+    }
+}
+
+
 

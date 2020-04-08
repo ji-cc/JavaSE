@@ -54,6 +54,7 @@ public class Demo {
 
 
         //测试chkPalindrome()
+/*
         MyLinedList myLinedList2  = new MyLinedList();
         myLinedList2.addLast(1);
         myLinedList2.addLast(3);
@@ -61,6 +62,36 @@ public class Demo {
         myLinedList2.addLast(3);
         myLinedList2.addLast(1);
         myLinedList2.display();
-        System.out.println(myLinedList2.chkPalindrome());
+        System.out.println(myLinedList2.chkPalindrome());*/
+
+
+        /*
+        //测试链表是否相交
+        MyLinedList myLinedList1  = new MyLinedList();
+        myLinedList1.addLast(1);
+        myLinedList1.addLast(3);
+        myLinedList1.addLast(7);
+        myLinedList1.addLast(9);
+        myLinedList1.display();
+        MyLinedList myLinedList2  = new MyLinedList();
+        myLinedList2.head = myLinedList1.head.next.next;
+        myLinedList2.display();
+        IntersectList intersectList = new IntersectList();
+        Node ret = intersectList.getIntersectionNode(myLinedList1.head,myLinedList2.head);
+        System.out.println(ret.data);*/
+
+
+        //测试链表是否有环
+        MyLinedList myLinedList1  = new MyLinedList();
+        myLinedList1.addLast(1);
+        myLinedList1.addLast(3);
+        myLinedList1.addLast(7);
+        myLinedList1.addLast(9);
+        myLinedList1.display();
+        Cycle cycle = new Cycle();
+        System.out.println(cycle.hasCycle(myLinedList1.head));
+
     }
 }
+
+
