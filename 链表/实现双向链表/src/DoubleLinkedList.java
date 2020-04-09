@@ -37,14 +37,14 @@ public class DoubleLinkedList {
     }
 
     //判断index位置是否合法
-    private void ifIndex(int index){
+    private void isIndex(int index){
         if(index < 0 || index > size()) {
             throw new RuntimeException("Index 位置不合法");
         }
     }
     //任意位置插入,第一个数据节点为0号下标
     public void addIndex(int index,int data) {
-        ifIndex(index);
+        isIndex(index);
         Node node = new Node(data);
         if(index == 0) {
             addFirst(data);
