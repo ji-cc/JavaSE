@@ -16,5 +16,5 @@ abstract public class User {
         operations[choice].work(bookList);
     }
     //不同的用户要面对不同的菜单，所以设置抽象类menu(),可以在不同的类中进行重写
-    abstract int menu();
+    public abstract int menu();
 }

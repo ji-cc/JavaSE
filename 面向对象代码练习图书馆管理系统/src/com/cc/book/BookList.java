@@ -7,7 +7,9 @@ public class BookList {
     public BookList() {
         this.books = new Book[20];
         this.books[0] = new Book("西游记", 13, "小说","吴承恩");
-        this.usedSize = 1;
+        this.books[1] = new Book("三国演义",6,"小说","施耐庵");
+        this.books[2] = new Book("水浒传",23,"小说","罗贯中");
+        this.usedSize = 3;
     }
 
     public int getUsedSize() {

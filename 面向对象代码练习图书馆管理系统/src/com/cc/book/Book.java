@@ -47,7 +47,7 @@ public class Book {
     }
 
     public boolean isBorrowed() {
-        return isBorrowed;
+        return isBorrowed;  //默认值为false
     }
 
     public void setBorrowed(boolean borrowed) {
@@ -61,7 +61,7 @@ public class Book {
                 ", price=" + price +
                 ", type='" + type + '\'' +
                 ", author='" + author + '\'' +
-                ", isBorrowed=" + isBorrowed +
+                ", " + (isBorrowed ? "已被借出" : "未被借出" ) +
                 '}';
     }
 }
