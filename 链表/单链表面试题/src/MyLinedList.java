@@ -30,6 +30,14 @@ public class MyLinedList {
         }
         System.out.println();
     }
+    public void display2(Node newHead){
+        Node cur = newHead;
+        while (cur != null) {
+            System.out.print(cur.data+" ");
+            cur = cur.next;
+        }
+        System.out.println();
+    }
     public void addLast(int data){
         Node node = new Node(data);
         if(this.head == null) {
@@ -99,14 +107,7 @@ public class MyLinedList {
         }
         return slow;
     }
-    public void display2(Node newHead){
-        Node cur = newHead;
-        while (cur != null) {
-            System.out.print(cur.data+" ");
-            cur = cur.next;
-        }
-        System.out.println();
-    }
+
 
     //编写代码，以给定值x为基准将链表分割成两部分，
     // 所有小于x的结点排在大于或等于x的结点之前
