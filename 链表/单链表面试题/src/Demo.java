@@ -90,7 +90,7 @@ public class Demo {
         myLinedList1.display();
         Cycle cycle = new Cycle();
         System.out.println(cycle.hasCycle(myLinedList1.head));
-
+        String
     }
 }
 
