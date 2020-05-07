@@ -8,4 +8,5 @@ public class Main {
         List<List<Integer>> result = solution.generate(4);
         System.out.println(result);
     }
+    
 }
