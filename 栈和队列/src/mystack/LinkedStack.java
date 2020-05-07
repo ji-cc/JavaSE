@@ -23,6 +23,7 @@ public class LinkedStack {
     }
     //出栈
     public Integer pop() {
+
         //头删
         Node delNode = head.next;
         if(delNode == null) {

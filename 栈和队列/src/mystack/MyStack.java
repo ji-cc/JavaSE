@@ -17,6 +17,6 @@ public class MyStack {
         linkedStack.push(3);
         System.out.println(linkedStack.pop());
         System.out.println(linkedStack.peek());
-        
+
     }
 }
