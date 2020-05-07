@@ -33,7 +33,7 @@ public class Solution {
 
             //当前行的第一列为1
             curLine.add(1);
-            
+
             //第row行一共有row列
             //第2列到row-1列的数字依赖于前一行
             //列数col从1开始算，与行数row一样，数组下标从0开始算
