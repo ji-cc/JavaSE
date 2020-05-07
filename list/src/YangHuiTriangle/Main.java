@@ -7,5 +7,5 @@ public class Main {
         Solution solution = new Solution();
         List<List<Integer>> result = solution.generate(4);
         System.out.println(result);
-    }
+    }  
 }
