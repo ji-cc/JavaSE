@@ -30,8 +30,10 @@ public class Solution {
         for(int row= 3; row <= numRows; row++) {
             ArrayList<Integer> preLine = (ArrayList<Integer>) result.get(row-1-1);
             ArrayList<Integer> curLine = new ArrayList<>();
+
             //当前行的第一列为1
             curLine.add(1);
+            
             //第row行一共有row列
             //第2列到row-1列的数字依赖于前一行
             //列数col从1开始算，与行数row一样，数组下标从0开始算
@@ -41,6 +43,7 @@ public class Solution {
                 int tmp2 = preLine.get(col-1);     //col列的值
                 curLine.add(tmp1 + tmp2);
             }
+
             //当前行的最后一列也是1
             curLine.add(1);
             result.add(curLine);
