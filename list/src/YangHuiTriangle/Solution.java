@@ -30,7 +30,6 @@ public class Solution {
         for(int row= 3; row <= numRows; row++) {
             ArrayList<Integer> preLine = (ArrayList<Integer>) result.get(row-1-1);
             ArrayList<Integer> curLine = new ArrayList<>();
-
             //当前行的第一列为1
             curLine.add(1);
 
