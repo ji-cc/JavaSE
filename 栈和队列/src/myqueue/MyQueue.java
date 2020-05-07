@@ -11,6 +11,7 @@ public class MyQueue {
         System.out.println(linkedQueue.peek());
         System.out.println(linkedQueue.poll());
 
+
         SequeueQueue sequeueQueue = new SequeueQueue();
         sequeueQueue.offer(1);
         sequeueQueue.offer(2);
