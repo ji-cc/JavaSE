@@ -10,5 +10,12 @@ public class MyStack {
         sequenceStack.push(3);
         System.out.println(sequenceStack.pop());
         System.out.println(sequenceStack.peek());
+
+        LinkedStack linkedStack = new LinkedStack();
+        linkedStack.push(1);
+        linkedStack.push(2);
+        linkedStack.push(3);
+        System.out.println(linkedStack.pop());
+        System.out.println(linkedStack.peek());
     }
 }
