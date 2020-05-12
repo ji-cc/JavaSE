@@ -1,7 +1,13 @@
 package testtree;
 
 public class PostOrder {
-    public static BuildTree.Node root = BuildTree.build();
+    /*         A
+             /   \
+            B      C
+          /   \     \
+         D     E     F
+              /
+             G                        */
     //后序遍历  根的左子树-->根的右子树-->根节点
     public static void postOrder(BuildTree.Node root) {
         //如果是空树，不需要进行任何操作
