@@ -1,8 +1,6 @@
 package testtree;
 
 public class PreOrderTree {
-    public static BuildTree.Node root = BuildTree.build();
-
     //先序遍历：根节点-->左子树-->右子树
     public static void preOrder(BuildTree.Node root) {
         //如果是空树，不需要进行任何操作
