@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
-给定一个二叉树，返回它的前序遍历。
+给定一个二叉树，返回它的前序遍历
 
     示例:
         输入: [1,null,2,3]
@@ -36,6 +36,7 @@ public class PreOrderTraversal {
          //访问根节点，把访问到的元素添加到result中
          result.add(root.val);
          //递归访问左子树
+         // addAll：把参数中的集合里的所有元素都add到当前集合中
          result.addAll(preOrderTraversal(root.left));
 
          //递归访问右子树
