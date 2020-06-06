@@ -11,7 +11,7 @@ package test;
 //        DataSource ds = new MysqlDataSource();
 //        ((MysqlDataSource) ds).setUrl("jdbc:mysql://localhost:3306/test");
 //        ((MysqlDataSource) ds).setUser("root");
-//        ((MysqlDataSource) ds).setPassword("root");
+//        ((MysqlDataSource) ds).setPassword("*****");
 //        Connection connection = ds.getConnection();
 //
 //        JBDC里面提供了两套API:
@@ -30,7 +30,8 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
 // JDBC的代码看起来麻烦，其实写多了之后，发现都是固定套路
-public class jar_test {
+public class TestJDBCInsert {
+    // 数据库的插入操作
     public static void main(String[] args) throws SQLException {
         // 1.创建DataSource对象（DataSource对象的生命周期应该要跟随整个程序）
         DataSource dataSource = new MysqlDataSource();
@@ -42,7 +43,7 @@ public class jar_test {
         //             需要指定访问那个数据库服务器以及访问哪个服务器中的数据库      characterEncoding=utf-8：指定字符集：字符集要和数据库服务器配置的字符集一致，否则就会中文乱码
         //                                                         3306:端口号，为了区分开一台主机上的多个服务器        serverTimezone=UTC
         ((MysqlDataSource) dataSource).setUser("root");   // 设置用户名：安装数据库时没有显式设置用户名,默认用户名都为root
-        ((MysqlDataSource) dataSource).setPassword("1111");   // 数据库密码
+        ((MysqlDataSource) dataSource).setPassword("1111");   // 数据库密码，与mysql密码一致
         // 2.和数据库建立连接,建立连接好了之后就可以进行后续的数据传输了
         // 建立连接的意义就是为了验证当前的网络通信是否正常
         // 如果不正确，就会跑出SQLException异常
