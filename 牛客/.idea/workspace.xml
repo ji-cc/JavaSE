@@ -12,50 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java0601/Solution.java">
+      <file leaf-file-name="DelSameStr.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java0604/DelSameStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
-              <caret line="57" selection-start-line="2" selection-end-line="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Prime_Pair.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_yu/Prime_Pair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LuckyBag.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java_yu/LuckyBag.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Drink.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java0602/Drink.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="34" column="1" selection-start-line="9" selection-end-line="34" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ToDoList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java0601/ToDoList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1170">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="240">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -80,6 +41,9 @@
         <option value="$PROJECT_DIR$/src/java_yu/test_prime.java" />
         <option value="$PROJECT_DIR$/src/java0603/CountinueMaxNumber.java" />
         <option value="$PROJECT_DIR$/src/java_yu/LuckyBag.java" />
+        <option value="$PROJECT_DIR$/src/java0603/Parenthesis.java" />
+        <option value="$PROJECT_DIR$/src/java0604/BuyApple.java" />
+        <option value="$PROJECT_DIR$/src/java0604/DelSameStr.java" />
       </list>
     </option>
   </component>
@@ -93,16 +57,19 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="78" />
-    <option name="y" value="18" />
+    <option name="x" value="-9" />
+    <option name="y" value="7" />
     <option name="width" value="1376" />
     <option name="height" value="677" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,33 +86,13 @@
               <item name="牛客" type="b2602c69:ProjectViewProjectNode" />
               <item name="牛客" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java0601" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="牛客" type="b2602c69:ProjectViewProjectNode" />
-              <item name="牛客" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java0602" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="牛客" type="b2602c69:ProjectViewProjectNode" />
-              <item name="牛客" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java0603" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="牛客" type="b2602c69:ProjectViewProjectNode" />
-              <item name="牛客" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java_yu" type="462c0819:PsiDirectoryNode" />
+              <item name="java0604" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -170,25 +117,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test_prime">
-    <configuration name="AntiOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java0602.AntiOrder" />
+  <component name="RunManager" selected="Application.DelSameStr">
+    <configuration name="BuyApple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java0604.BuyApple" />
       <module name="牛客" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java0602.*" />
+          <option name="PATTERN" value="java0604.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Drink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java0602.Drink" />
+    <configuration name="DelSameStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java0604.DelSameStr" />
       <module name="牛客" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java0602.*" />
+          <option name="PATTERN" value="java0604.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,19 +215,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Drink" />
-      <item itemvalue="Application.AntiOrder" />
       <item itemvalue="Application.test" />
       <item itemvalue="Application.Prime_Pair" />
       <item itemvalue="Application.test_prime" />
+      <item itemvalue="Application.BuyApple" />
+      <item itemvalue="Application.DelSameStr" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DelSameStr" />
+        <item itemvalue="Application.BuyApple" />
         <item itemvalue="Application.test_prime" />
         <item itemvalue="Application.Prime_Pair" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.AntiOrder" />
-        <item itemvalue="Application.Drink" />
       </list>
     </recent_temporary>
   </component>
@@ -297,18 +244,19 @@
       <workItem from="1619359046791" duration="4349000" />
       <workItem from="1619415159269" duration="12296000" />
       <workItem from="1619580523864" duration="3365000" />
+      <workItem from="1619767757870" duration="10271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20010000" />
+    <option name="totallyTimeSpent" value="30281000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="18" width="1376" height="677" extended-state="0" />
-    <editor active="true" />
+    <frame x="-9" y="7" width="1376" height="677" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -316,11 +264,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.06748466" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.08196721" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24884437" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19272445" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Alibaba Cloud Explorer" order="2" />
@@ -329,13 +277,16 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.6684685" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2918919" />
+      <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.34078214" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -347,10 +298,45 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/java0601/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="57" selection-start-line="2" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/Prime_Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java0602/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="1" selection-start-line="9" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java0601/ToDoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/LuckyBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java0601/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1650">
@@ -379,13 +365,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java0603/CountinueMaxNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java0603/CountinueMaxNumber.java" />
     <entry file="file://$PROJECT_DIR$/src/java0601/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -436,18 +416,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java0426.java" />
-    <entry file="file://$PROJECT_DIR$/src/java0603/test.java">
+    <entry file="file://$PROJECT_DIR$/src/java_yu/test_prime.java" />
+    <entry file="file://$PROJECT_DIR$/src/java0603/CountinueMaxNumber.java" />
+    <entry file="file://$PROJECT_DIR$/src/java_yu/LuckyBag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="184">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_yu/test_prime.java" />
-    <entry file="file://$PROJECT_DIR$/src/java0603/CountinueMaxNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/java0603/Parenthesis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        <state relative-caret-position="60">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -458,13 +439,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_yu/LuckyBag.java">
+    <entry file="file://$PROJECT_DIR$/src/java0603/test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="540">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java0604.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java0603/ContinueMaxNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java0604/BuyApple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java0604/DelSameStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
