@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/src/java0601/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1650">
-              <caret line="57" lean-forward="true" selection-start-line="2" selection-end-line="57" />
+              <caret line="57" selection-start-line="2" selection-end-line="57" />
             </state>
           </provider>
         </entry>
@@ -24,17 +24,20 @@
       <file leaf-file-name="Prime_Pair.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java_yu/Prime_Pair.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="30">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountinueMaxNumber.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java0603/CountinueMaxNumber.java">
+      <file leaf-file-name="LuckyBag.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/LuckyBag.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            <state relative-caret-position="456">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,8 +45,8 @@
       <file leaf-file-name="Drink.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java0602/Drink.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="9" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="1020">
+              <caret line="34" column="1" selection-start-line="9" selection-end-line="34" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -51,8 +54,8 @@
       <file leaf-file-name="ToDoList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java0601/ToDoList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="1170">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -76,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/java_yu/Prime_Pair.java" />
         <option value="$PROJECT_DIR$/src/java_yu/test_prime.java" />
         <option value="$PROJECT_DIR$/src/java0603/CountinueMaxNumber.java" />
+        <option value="$PROJECT_DIR$/src/java_yu/LuckyBag.java" />
       </list>
     </option>
   </component>
@@ -88,18 +92,17 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-79" />
-    <option name="y" value="70" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="78" />
+    <option name="y" value="18" />
     <option name="width" value="1376" />
-    <option name="height" value="678" />
+    <option name="height" value="677" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,17 +133,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java0603" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="牛客" type="b2602c69:ProjectViewProjectNode" />
+              <item name="牛客" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java_yu" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -285,18 +296,19 @@
       <updated>1619359041353</updated>
       <workItem from="1619359046791" duration="4349000" />
       <workItem from="1619415159269" duration="12296000" />
+      <workItem from="1619580523864" duration="3365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16645000" />
+    <option name="totallyTimeSpent" value="20010000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-79" y="70" width="1376" height="678" extended-state="1" />
+    <frame x="78" y="18" width="1376" height="677" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -308,7 +320,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24961479" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24884437" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Alibaba Cloud Explorer" order="2" />
@@ -318,6 +330,7 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6684685" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -338,6 +351,41 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/java0601/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="57" selection-start-line="2" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/Prime_Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java0602/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="9" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java0601/ToDoList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java0603/CountinueMaxNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java0601/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -361,22 +409,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java0601/ToDoList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="1170">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java0601/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1650">
-          <caret line="57" lean-forward="true" selection-start-line="2" selection-end-line="57" />
+          <caret line="57" selection-start-line="2" selection-end-line="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java0602/Drink.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="9" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="1020">
+          <caret line="34" column="1" selection-start-line="9" selection-end-line="34" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -387,13 +435,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java0426.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java0426.java" />
     <entry file="file://$PROJECT_DIR$/src/java0603/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -401,24 +443,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_yu/test_prime.java">
+    <entry file="file://$PROJECT_DIR$/src/java_yu/test_prime.java" />
+    <entry file="file://$PROJECT_DIR$/src/java0603/CountinueMaxNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="35">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_yu/Prime_Pair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        <state relative-caret-position="30">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java0603/CountinueMaxNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/java_yu/LuckyBag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        <state relative-caret-position="456">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
