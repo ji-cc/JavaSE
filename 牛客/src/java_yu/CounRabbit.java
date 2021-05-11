@@ -2,7 +2,7 @@ package java_yu;
 
 import java.util.Scanner;
 
-public class CountRabbit {
+public class CounRabbit {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         while (scanner.hasNext()) {
@@ -34,3 +34,4 @@ public class CountRabbit {
         return sum;
     }
 }
+

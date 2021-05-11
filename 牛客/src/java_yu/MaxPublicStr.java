@@ -3,6 +3,7 @@ package java_yu;
 import java.util.Scanner;
 
 public class MaxPublicStr {
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         while (scanner.hasNext()) {
