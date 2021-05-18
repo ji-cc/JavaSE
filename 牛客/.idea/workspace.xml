@@ -12,32 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="ShufflePoker.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java_yu/ShufflePoker.java">
+      <file leaf-file-name="Password.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/Password.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="17" column="40" lean-forward="true" selection-end-line="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="288">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MP3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java_yu/MP3.java">
+      <file leaf-file-name="TreeRouut.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/TreeRouut.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-885">
-              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CEshi.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CEshi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <state relative-caret-position="245">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -80,6 +68,8 @@
         <option value="$PROJECT_DIR$/src/java_yu/ShufflePoker.java" />
         <option value="$PROJECT_DIR$/src/CEshi.java" />
         <option value="$PROJECT_DIR$/src/java_yu/MP3.java" />
+        <option value="$PROJECT_DIR$/src/java_yu/Password.java" />
+        <option value="$PROJECT_DIR$/src/java_yu/TreeRouut.java" />
       </list>
     </option>
   </component>
@@ -92,9 +82,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-16" />
-    <option name="y" value="5" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="63" />
     <option name="width" value="1386" />
     <option name="height" value="780" />
   </component>
@@ -104,8 +93,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,19 +112,12 @@
               <item name="牛客" type="b2602c69:ProjectViewProjectNode" />
               <item name="牛客" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java0609" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="牛客" type="b2602c69:ProjectViewProjectNode" />
-              <item name="牛客" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java_yu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,6 +129,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShufflePoker">
+  <component name="RunManager" selected="Application.TreeRouut">
     <configuration name="CEshi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CEshi" />
       <module name="牛客" />
@@ -176,8 +160,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MaxPublicStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_yu.MaxPublicStr" />
+    <configuration name="Password" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_yu.Password" />
       <module name="牛客" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -187,19 +171,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Min_n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java0609.Min_n" />
+    <configuration name="ShufflePoker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_yu.ShufflePoker" />
       <module name="牛客" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java0609.*" />
+          <option name="PATTERN" value="java_yu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ShufflePoker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_yu.ShufflePoker" />
+    <configuration name="TreeRouut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_yu.TreeRouut" />
       <module name="牛客" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -251,19 +235,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Min_n" />
-      <item itemvalue="Application.MaxPublicStr" />
       <item itemvalue="Application.ShufflePoker" />
       <item itemvalue="Application.MP3" />
       <item itemvalue="Application.CEshi" />
+      <item itemvalue="Application.Password" />
+      <item itemvalue="Application.TreeRouut" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeRouut" />
+        <item itemvalue="Application.Password" />
         <item itemvalue="Application.ShufflePoker" />
         <item itemvalue="Application.MP3" />
         <item itemvalue="Application.CEshi" />
-        <item itemvalue="Application.MaxPublicStr" />
-        <item itemvalue="Application.Min_n" />
       </list>
     </recent_temporary>
   </component>
@@ -284,12 +268,13 @@
       <workItem from="1620195625873" duration="10158000" />
       <workItem from="1620269935876" duration="15175000" />
       <workItem from="1620547960171" duration="24159000" />
-      <workItem from="1620887647149" duration="29164000" />
+      <workItem from="1620887647149" duration="29792000" />
+      <workItem from="1621322656991" duration="11339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108937000" />
+    <option name="totallyTimeSpent" value="120904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -301,34 +286,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="63" y="0" width="1386" height="780" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.0" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.65143824" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32972974" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.20647149" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="7" weight="0.32972974" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Alibaba Cloud Explorer" order="2" weight="0.32718894" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45516074" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -338,6 +322,7 @@
       <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,24 +341,10 @@
           <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="24" />
+      <option name="time" value="33" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java0606/Count2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java0608/Cake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java0608/MinCommonMul.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -674,27 +645,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CEshi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CEshi.java" />
     <entry file="file://$PROJECT_DIR$/src/java_yu/MP3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-885">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="570">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_yu/ShufflePoker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="40" lean-forward="true" selection-end-line="44" />
+        <state relative-caret-position="30">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/TreeRouut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>
