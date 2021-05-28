@@ -1,5 +1,4 @@
 package java_yu;
-
 import java.util.Scanner;
 
 public class CutCloth {

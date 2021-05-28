@@ -1,5 +1,4 @@
 package java0611;
-
 import java.util.Scanner;
 
 public class Robit {
@@ -18,5 +17,6 @@ public class Robit {
             return 1;
         }
         return countWays(x-1,y) + countWays(x,y-1);
+
     }
 }

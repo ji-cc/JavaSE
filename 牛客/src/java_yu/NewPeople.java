@@ -1,7 +1,6 @@
 package java_yu;
 // 斐波那契数列
 // 用 long 类型
-
 import java.util.Scanner;
 
 public class NewPeople {

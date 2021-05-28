@@ -12,11 +12,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Robit.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java0611/Robit.java">
+      <file leaf-file-name="CounRabbit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/CounRabbit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CutCloth.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/CutCloth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LuckyBag.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/LuckyBag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxPublicStr.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/MaxPublicStr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MP3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/MP3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewPeople.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/NewPeople.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParameterAnalysis.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/ParameterAnalysis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Prime_Pair.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/Prime_Pair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShufflePoker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/ShufflePoker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeRouut.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_yu/TreeRouut.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -68,9 +149,9 @@
         <option value="$PROJECT_DIR$/src/java0610/java0611/IsFibStr.java" />
         <option value="$PROJECT_DIR$/src/java0610/java0611/CountWays.java" />
         <option value="$PROJECT_DIR$/src/java0610/java0611/Robit.java" />
+        <option value="$PROJECT_DIR$/src/java0611/Robit.java" />
         <option value="$PROJECT_DIR$/src/java_yu/CutCloth.java" />
         <option value="$PROJECT_DIR$/src/java_yu/NewPeople.java" />
-        <option value="$PROJECT_DIR$/src/java0611/Robit.java" />
       </list>
     </option>
   </component>
@@ -89,9 +170,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-60" />
-    <option name="y" value="95" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="172" />
     <option name="width" value="1386" />
     <option name="height" value="683" />
   </component>
@@ -119,6 +199,12 @@
               <item name="牛客" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java0611" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="牛客" type="b2602c69:ProjectViewProjectNode" />
+              <item name="牛客" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java_yu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,12 +371,12 @@
       <workItem from="1620887647149" duration="29792000" />
       <workItem from="1621322656991" duration="14742000" />
       <workItem from="1621993264555" duration="9413000" />
-      <workItem from="1622085500800" duration="7294000" />
+      <workItem from="1622085500800" duration="7464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141014000" />
+    <option name="totallyTimeSpent" value="141184000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,7 +388,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="280" y="18" width="1386" height="683" extended-state="0" />
+    <frame x="172" y="0" width="1386" height="683" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -322,9 +408,9 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49769586" visible="true" weight="0.08282828" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49769586" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32972974" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20967741" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20967741" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="12" sideWeight="0.49923196" weight="0.32929292" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Alibaba Cloud Explorer" order="2" weight="0.32718894" />
@@ -361,13 +447,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java_yu/Prime_Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java0602/Drink.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
@@ -552,13 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_yu/Prime_Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java0609/DelNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -566,53 +638,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_yu/CounRabbit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_yu/LuckyBag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_yu/MaxPublicStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CEshi.java" />
-    <entry file="file://$PROJECT_DIR$/src/java_yu/MP3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_yu/ShufflePoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_yu/Password.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_yu/TreeRouut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -663,24 +693,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java_yu/NewPeople.java">
+    <entry file="file://$PROJECT_DIR$/src/java0611/Robit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/MP3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/ParameterAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/Prime_Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/ShufflePoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/TreeRouut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/CounRabbit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java_yu/CutCloth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        <state relative-caret-position="90">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java0611/Robit.java">
+    <entry file="file://$PROJECT_DIR$/src/java_yu/LuckyBag.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="361">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/MaxPublicStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/NewPeople.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
