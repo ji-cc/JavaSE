@@ -12,38 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="ZerosNum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java0610/ZerosNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="11" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reserve.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java0610/Reserve.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsFibStr.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java0611/IsFibStr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Robit.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Robit.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/java0611/Robit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="240">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -95,6 +68,8 @@
         <option value="$PROJECT_DIR$/src/java0610/java0611/IsFibStr.java" />
         <option value="$PROJECT_DIR$/src/java0610/java0611/CountWays.java" />
         <option value="$PROJECT_DIR$/src/java0610/java0611/Robit.java" />
+        <option value="$PROJECT_DIR$/src/java_yu/CutCloth.java" />
+        <option value="$PROJECT_DIR$/src/java_yu/NewPeople.java" />
         <option value="$PROJECT_DIR$/src/java0611/Robit.java" />
       </list>
     </option>
@@ -114,11 +89,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="98" />
-    <option name="y" value="-11" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-60" />
+    <option name="y" value="95" />
     <option name="width" value="1386" />
-    <option name="height" value="782" />
+    <option name="height" value="683" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -127,8 +102,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,6 +124,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,7 +151,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsFibStr">
+  <component name="RunManager" selected="Application.Robit">
+    <configuration name="CutCloth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_yu.CutCloth" />
+      <module name="牛客" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_yu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="IsFibStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java0611.IsFibStr" />
       <module name="牛客" />
@@ -188,17 +174,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java0609.Main" />
-      <module name="牛客" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java0609.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="Reserve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java0610.Reserve" />
       <module name="牛客" />
@@ -206,6 +181,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java0610.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Robit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java0611.Robit" />
+      <module name="牛客" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java0611.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,11 +208,6 @@
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="niuniu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niuniu" />
-      <module name="牛客" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -268,19 +249,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.niuniu" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.ZerosNum" />
       <item itemvalue="Application.Reserve" />
       <item itemvalue="Application.IsFibStr" />
+      <item itemvalue="Application.CutCloth" />
+      <item itemvalue="Application.Robit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Robit" />
+        <item itemvalue="Application.CutCloth" />
         <item itemvalue="Application.IsFibStr" />
         <item itemvalue="Application.Reserve" />
         <item itemvalue="Application.ZerosNum" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.niuniu" />
       </list>
     </recent_temporary>
   </component>
@@ -304,11 +285,12 @@
       <workItem from="1620887647149" duration="29792000" />
       <workItem from="1621322656991" duration="14742000" />
       <workItem from="1621993264555" duration="9413000" />
+      <workItem from="1622085500800" duration="7294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133720000" />
+    <option name="totallyTimeSpent" value="141014000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -320,33 +302,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="280" y="18" width="1386" height="683" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32994923" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Maven Projects" order="16" sideWeight="0.5007704" side_tool="true" visible="true" weight="0.03417266" />
+      <window_info anchor="bottom" id="Maven Projects" order="16" sideWeight="0.50230414" side_tool="true" weight="0.32929292" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49922958" weight="0.03417266" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32972974" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20570108" />
-      <window_info anchor="bottom" id="Alibaba Cloud View" order="12" weight="0.32972974" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info id="Alibaba Cloud Explorer" order="2" weight="0.32718894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.7207207" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32929292" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4969278" weight="0.043771043" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49769586" visible="true" weight="0.08282828" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32972974" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20967741" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="12" sideWeight="0.49923196" weight="0.32929292" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Alibaba Cloud Explorer" order="2" weight="0.32718894" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.7207207" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -356,7 +339,6 @@
       <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,20 +361,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java_yu/LuckyBag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java0601/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="57" selection-start-line="2" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java_yu/Prime_Pair.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -688,17 +656,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java0611/Robit.java">
+    <entry file="file://$PROJECT_DIR$/src/java0611/IsFibStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="443">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java0611/IsFibStr.java">
+    <entry file="file://$PROJECT_DIR$/src/java_yu/NewPeople.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="161">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_yu/CutCloth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java0611/Robit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
