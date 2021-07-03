@@ -10,6 +10,26 @@ import java.util.Scanner;
 public class SplitStr {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        while (scanner.hasNext()){
+            String str = scanner.nextLine();
+
+            if (str.length()<8) {
+                str += "00000000";
+                System.out.println(str.substring(0,8));
+            } else if (str.length() == 8){
+                System.out.println(str);
+            }else {
+                while (str.length()%8 != 0) {
+                    str += "0";
+                }
+                int i = 0;
+                while (i < str.length()) {
+                    System.out.println(str.substring(i,i+8));
+                    i += 8;
+                }
+            }
+
+        }
 
     }
 
