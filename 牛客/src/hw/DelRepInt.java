@@ -4,6 +4,7 @@ package hw;
 保证输入的整数最后一位不是0。
  */
 
+// 注：先反转，再去重
 
 import java.util.HashSet;
 import java.util.Scanner;
@@ -13,20 +14,21 @@ import java.util.Stack;
 public class DelRepInt {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String str = scanner.nextLine();
-        int n = str.length();
-
-        Set<Character> set = new HashSet<>();
-        for (int i = 0; i < n; i++) {
-            set.add(str.charAt(i));
-        }
-        Stack<Character> stack = new Stack<>();
-        for (Character c: set
-             ) {
-            stack.push(c);
-        }
-        while (!stack.isEmpty()) {
-            System.out.print(stack.pop());
+        while (scanner.hasNext()) {
+            String str = scanner.nextLine();
+            int n = str.length();
+            // boolean add(E e)  // 如果该集合已经包含该元素，返回false 。
+            Set<Character> set = new HashSet<>();
+            Stack<Character> stack = new Stack<>();
+            for (int i = 0; i < n; i++) {
+                stack.push(str.charAt(i));
+            }
+            while (!stack.isEmpty()) {
+                char c = stack.pop();
+                if (set.add(c)) {
+                    System.out.print(c);
+                }
+            }
         }
     }
 }
